@@ -5,7 +5,7 @@
 body {
     color: #000000;
     font-family: "Jost", sans-serif;
-    background: rgb(75, 151, 183);
+    background: rgb(57, 114, 138);
     background-size: cover;
     background-position: center;
     min-height: 100vh;
@@ -295,7 +295,7 @@ body {
   
   .card-item-title {
     font-weight: 600;
-    font-size: 15px;
+    font-size: 14px;
     margin-bottom: 6px;
   }
   
