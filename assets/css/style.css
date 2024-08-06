@@ -5,7 +5,10 @@
 body {
     color: #000000;
     font-family: "Jost", sans-serif;
-    background: rgb(57, 114, 138);
+    background: rgb(75, 151, 183);
+    background-image: url(../img/foto2.png);
+    background-size: cover;
+    background-position: center;
     background-size: cover;
     background-position: center;
     min-height: 100vh;
