@@ -14,11 +14,12 @@ body {
     min-height: 100vh;
     display: flex;
     flex-wrap: wrap;
-    padding: 20px;
+    padding: 10px;
+   
 }
 .card{
     max-width: 440px;
-    margin: auto;
+    margin: 260px auto;
     overflow-y: auto;
     position: relative;
     z-index: 1;
@@ -31,14 +32,14 @@ body {
     box-shadow: 0 0 0 8px rgba(0, 0, 0, 0.2);
 }
 .card[data-state="#about"] {
-    height: 450px;
+    height: 420px;
   }
   .card[data-state="#about"] .card-main {
     padding-top: 0;
   }
   
   .card[data-state="#contact"] {
-    height: 430px;
+    height: 420px;
   }
   
   .card[data-state="#experience"] {
